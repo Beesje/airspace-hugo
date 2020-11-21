@@ -7,8 +7,6 @@ sections:
 - type: document
   path: vooru
   label: Voor u
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Tarieven
 - type: directory
