@@ -8,20 +8,9 @@ information = []
 title = "Vaste klanten"
 
 +++
-## Losse ritten
+## Vaste klanten
 
-Iedereen kan losse ritten aanvragen, zakelijk of particulier. Er staat dan binnen twee uur of op afgesproken tijd een fietskoerier voor u klaar. Hier vindt u een prijsoverzicht:
+Als vaste klant heb je altijd voordeel. Omdat er altijd maatwerk geboden wordt, zal een exacte prijs altijd in goed overleg en na een proefperiode tot stand komen. Om toch een indicatie te geven zijn hier twee voorbeelden
 
-Losse rit van 0 tot 4 km  voor 6 euro
-
-Losse rit van 4 tot 8 km voor 8 euro
-
-Losse rit van 8 tot 12 km voor 10 euro
-
-**Geen spoed?   
-**Bestel je rit een dag tevoren en krijg 2 euro korting
-
-**Grote haast?**   
-Voor 4 euro extra staat er in een half uur een fietskoerier voor u klaar
-
-Voor vragen of bestellingen bel 06 555555
+1. **Een keer per** dag worden tussen de 10 en 30 bestellingen opgehaald om een afgesproken tijdstip om dezelfde dag nog bezorgd te worden binnen een straal van 4 kilometer. De pakketten overschreiden zelden een grote van 30x10x20 en zijn zelden zwaarder dan 500 gram. In een dergelijke situatie komt de prijs ongeveer uit op  ongeveer **2 euro per pakket**.
+2. U wilt op **elk moment** van de dag een losse bestellingen kunnen laten bezorgen. Vanaf 50 ritten per week krijgt u 10% korting op het vaste tarief voor losse ritten, vanaf 100 ritten per week krijgt u zelfs een korting van 20%
