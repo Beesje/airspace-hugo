@@ -23,4 +23,4 @@ Bestel je rit een dag van tevoren en krijg 2 euro korting.
 Grote haast?   
 Voor 4 euro extra staat er in een half uur een fietskoerier voor u klaar.
 
-Voor vragen of het boeken bel 06 555555
+Voor vragen of bestellingen bel 06 555555
