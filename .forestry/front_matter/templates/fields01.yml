@@ -1,4 +1,62 @@
 ---
 label: fields01
 hide_body: true
-fields: []
+fields:
+- name: header
+  type: file
+  config:
+    maxSize: 64
+  label: Header
+- name: site_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: site content
+  description: text shown on this site
+- name: bg_image
+  type: file
+  config:
+    maxSize: 64
+  label: BG image
+  description: voor de achtergrond
+- name: footer
+  type: field_group
+  config: {}
+  fields:
+  - name: bedrijfs_info
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: bedrijfs info
+  - name: contact_info
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: contact info
+  - name: logo
+    type: file
+    config:
+      maxSize: 64
+    label: logo
+  label: Footer
+- name: contact_info
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: contact info
