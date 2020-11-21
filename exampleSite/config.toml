@@ -9,7 +9,7 @@ title = "Airspace | Creative Agency Hugo Template"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "en-us"
+languageCode = "nl"
 languageName = "NL"
 weight = 1
 [[Languages.en.menu.footer]]
@@ -41,6 +41,10 @@ URL = "/"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
+URL = "vooru"
+name = "Voor u"
+parent = "Pages"
+[[Languages.en.menu.main]]
 URL = "overons"
 name = "Over ons"
 weight = 2
@@ -55,10 +59,6 @@ weight = 5
 [[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "vooru"
-name = "Voor u"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "service"
