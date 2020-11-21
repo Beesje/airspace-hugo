@@ -1,7 +1,7 @@
 ---
 title: Losse ritten
 description: ''
-image: "/images/logo-ster-wit.png"
+image: "/images/logo-skyline-1200x600.png"
 bg_image: "/images/img_20201120_134209.jpg"
 category: ''
 information: []
