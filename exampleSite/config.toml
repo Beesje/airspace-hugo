@@ -41,8 +41,8 @@ URL = "/"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
-URL = "about"
-name = "About"
+URL = "overons"
+name = "Over ons"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "Tarieven"
