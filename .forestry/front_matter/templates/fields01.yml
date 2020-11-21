@@ -60,3 +60,5 @@ fields:
     schema:
       format: markdown
   label: contact info
+pages:
+- content/test.md
