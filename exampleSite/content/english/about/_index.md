@@ -4,7 +4,7 @@ description: 'Contact - Missie '
 bg_image: images/featue-bg.jpg
 
 ---
-Contact
+**Contact**
 
 Voor vragen of het bestellen van een rit kunt u altijd mailen. Door de week zijn wij telefonisch te bereiken van 8:00 tot 20:00.
 
@@ -12,7 +12,7 @@ Info@maastrichtfietskoeriers.nl
 
 06 55555555
 
-Missie
+**Missie**
 
 Maastricht Fietskoeriers is een jong bedrijf met een missie. Wij willen lokale ondernemers en lokale consumenten dichter bij elkaar brengen, de banden versterken en zo een positieve bijdrage leveren aan de lokale economie.
 
